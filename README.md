@@ -36,5 +36,6 @@
 </div>
 
 ### Usage
+
 - [Follow the directions here (DO NOT FORK)](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
 - Then follow instructions in [Wiki](https://github.com/Zackptg5/MMT-Extended/wiki)
